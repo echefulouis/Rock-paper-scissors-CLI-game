@@ -16,7 +16,7 @@ def user_input():
       print(f"User chose {choice_list[user_move]}")
       return user_move  
     else:
-      print("Invalid response, Try again")
+      print("Invalid response, Please Try again")
       print('---------------------------------------------')
       
 
