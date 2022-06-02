@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-A classic two-person game. Players start each round by choosing between “rock, paper, scissors!” On “shoot,” and the computer picks at random.
+A classic two-person game. Players start each round by choosing between “rock, paper, scissors” and the computer picks at random.
 
 ## Rules
 
